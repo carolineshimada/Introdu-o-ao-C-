@@ -1,0 +1,16 @@
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.csproj.AssemblyReference.cache
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.AssemblyInfoInputs.cache
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.AssemblyInfo.cs
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.csproj.CoreCompileInputs.cache
+/home/caroline/Desktop/c# study/Projeto em c#/bin/Debug/net5.0/Projeto em c#
+/home/caroline/Desktop/c# study/Projeto em c#/bin/Debug/net5.0/Projeto em c#.deps.json
+/home/caroline/Desktop/c# study/Projeto em c#/bin/Debug/net5.0/Projeto em c#.runtimeconfig.json
+/home/caroline/Desktop/c# study/Projeto em c#/bin/Debug/net5.0/Projeto em c#.runtimeconfig.dev.json
+/home/caroline/Desktop/c# study/Projeto em c#/bin/Debug/net5.0/Projeto em c#.dll
+/home/caroline/Desktop/c# study/Projeto em c#/bin/Debug/net5.0/ref/Projeto em c#.dll
+/home/caroline/Desktop/c# study/Projeto em c#/bin/Debug/net5.0/Projeto em c#.pdb
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.dll
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/ref/Projeto em c#.dll
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.pdb
+/home/caroline/Desktop/c# study/Projeto em c#/obj/Debug/net5.0/Projeto em c#.genruntimeconfig.cache
